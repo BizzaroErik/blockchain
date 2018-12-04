@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<healthRecord>
+    <bday>1996.03.07</bday>
+    <blockNumber>3</blockNumber>
+    <blockUUID>b38cd99f-a424-4134-8e44-2e09e9cbdc84</blockUUID>
+    <creatorProcessID>0</creatorProcessID>
+    <diagnosis>Chickenpox</diagnosis>
+    <drugRec>aspirin</drugRec>
+    <fname>John</fname>
+    <lname>Smith</lname>
+    <previousHash>cDV3WbhDh1BwVMSZ38gMd5OjkEQHMhyLp8T6vjCzo0o2/DdOdFY1LrGFdH/m/b7cR4J8pfZkccQwhP7futicTEe+oketUXgw/v/7MRrvzIfB+M90AAvioq2CiEN5WIMPYGQ6gEp0Vm+kZLJYedqHDL0pBnJQ1ADbjHFz4BUkB/o=</previousHash>
+    <SHA256String>0734a9fb0bc9a14e6bd23afeab07d319a69648207047c2f1d08fb65b3589bdcf</SHA256String>
+    <SSN>123-45-6789</SSN>
+    <signedSHA256>hCThJRIrLgLO29AkrhYUGVAMizu+XMvS4gsYIxLC3PykWerE4rrgywsv+QMsTbYmGC5px21lYkHYJ/8GufhjM7X8vYmsCJOT6pFY4N8URMiFmOoeMk7kzPpXxUFuTD4cLVgMVUqZwf6Hx3r7ZdCtXqEpn7A7Jv8GJRVU3OeoYvc=</signedSHA256>
+    <timeStamp> 2018-02-18.19:58:01.0</timeStamp>
+    <verificationProcessID>2</verificationProcessID>
+    <wellnessRec>BedRest</wellnessRec>
+    <hashSolution>LPE6Y9K0</hashSolution>
+</healthRecord>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<healthRecord>
+    <bday>1880.06.27</bday>
+    <blockNumber>3</blockNumber>
+    <blockUUID>fa9e3f76-e3f8-40ab-a77f-61ac9cd24425</blockUUID>
+    <creatorProcessID>2</creatorProcessID>
+    <diagnosis>Arthritis</diagnosis>
+    <drugRec>Aspirin</drugRec>
+    <fname>Helen</fname>
+    <lname>Keller</lname>
+    <previousHash>IC8s9KR3Gd7ZLlpLLgtvnQ8vnUDMhZF1Z25SAWWJkvHTPo7lM3UQ+W0n4TJHpnLPk9D+GPgs+sEzeLl+mW2FNDonr4tfq8ClHlW1PkvRh77Xzx/l6qlLZuuvCh8lHZ86iLGoLj3V2W3FaOcGi+IMN0mi2IsMcQeKVEdOBwv26t4=</previousHash>
+    <SHA256String>f4b109d20ee87b920d9ac7da103518338868dbe69938fc5bdd047858a0884d86</SHA256String>
+    <SSN>666-45-6789</SSN>
+    <signedSHA256>LiefdRm0RLXJ/tVPdxmtkPTXCArVdu1acBg1E+mpzYh2oCQZk9EpiJOk6lsZyxmW58zqEiwxUmWIrbxZIc2lk7AWpyRxjBWUk7wk/09EV+7Ho9D8u+8ANX/NKOPivS/cSpVlemNmOfYB9UXgPdVeaVR6Swr7Umf7B94jjNWLI7I=</signedSHA256>
+    <timeStamp> 2018-02-18.19:58:01.2</timeStamp>
+    <verificationProcessID>0</verificationProcessID>
+    <wellnessRec>WarmCloths</wellnessRec>
+    <hashSolution>WYW4VL0H</hashSolution>
+</healthRecord>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<healthRecord>
+    <bday>1996.03.22</bday>
+    <blockNumber>3</blockNumber>
+    <blockUUID>148192dd-4b95-420b-9126-2c768074d3b6</blockUUID>
+    <creatorProcessID>1</creatorProcessID>
+    <diagnosis>Shingles</diagnosis>
+    <drugRec>Zovirax</drugRec>
+    <fname>Wei</fname>
+    <lname>Xu</lname>
+    <previousHash>d4jo98Nvc+JPoREg1p8X/vdJdtgs5EOXjboeb1EWD7M7WyRO5wD+T6XBeGri724S4l9jUzRLmimrJIvGqtFKpJ0VgRYQiTktgQJCQaBEN1/MQ6SSk2IMmVkxmfxSbvsPooNVIRHl882RAI1Ef93FL5ZM/fg6cvZOxhzgaT2XxPI=</previousHash>
+    <SHA256String>6eb4696f0828b7010b5dc492cccfade1cbcd9bf1e70ef2b416ffc4cd1f486da0</SHA256String>
+    <SSN>123-456-333</SSN>
+    <signedSHA256>UB/u9CmmBTj8SpsSGLKDKsh2BFn8U4nbpNtTPAARaRLLkm0U5dCg/Cv/RVR3TxfSAnHZlpuJBVXM/yEORuEuZar1CWxcJvcpseGRGLZWkFeMfYKioJSRSSIvJXuMzbN5YBnvDLxKYYMOPRimUhOSGJhKBqQ/YPWipKymCsiXWR8=</signedSHA256>
+    <timeStamp> 2018-02-18.19:58:02.1</timeStamp>
+    <verificationProcessID>1</verificationProcessID>
+    <wellnessRec>WaitForRelief</wellnessRec>
+    <hashSolution>CUAZ9BUK</hashSolution>
+</healthRecord>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<healthRecord>
+    <bday>1996.03.07</bday>
+    <blockNumber>2</blockNumber>
+    <blockUUID>bb4f612c-8b6f-458f-88ab-7187de39d85c</blockUUID>
+    <creatorProcessID>0</creatorProcessID>
+    <diagnosis>Smallpox</diagnosis>
+    <drugRec>Whiskey</drugRec>
+    <fname>Joe</fname>
+    <lname>Blow</lname>
+    <previousHash>VMz3jjIY9t2LwfkhArSoj6Ku5sXIAViU7NmT2a4zjS3woCUXup/SkKHTtvr9uE88zWRi8kgp+/C5IQGf95LUA8UGvia8eYP8bR7mu+7Trpfp5qGPR/fBlCbXauXJGcdHsxX6FRDmxm7WPZzh8N8wZzWyE1ilXlrypUgX/IZN9U0=</previousHash>
+    <SHA256String>e034129641edc47741ffbd61bbd1d7de8c466334c46d147ae0ea9549a5da1464</SHA256String>
+    <SSN>123-45-6888</SSN>
+    <signedSHA256>cDV3WbhDh1BwVMSZ38gMd5OjkEQHMhyLp8T6vjCzo0o2/DdOdFY1LrGFdH/m/b7cR4J8pfZkccQwhP7futicTEe+oketUXgw/v/7MRrvzIfB+M90AAvioq2CiEN5WIMPYGQ6gEp0Vm+kZLJYedqHDL0pBnJQ1ADbjHFz4BUkB/o=</signedSHA256>
+    <timeStamp> 2018-02-18.19:58:03.0</timeStamp>
+    <verificationProcessID>2</verificationProcessID>
+    <wellnessRec>BedRest</wellnessRec>
+    <hashSolution>JI4JIBDI</hashSolution>
+</healthRecord>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<healthRecord>
+    <bday>1809.02.12</bday>
+    <blockNumber>2</blockNumber>
+    <blockUUID>47f88e59-10ec-4ae6-b1d0-966b35c690c1</blockUUID>
+    <creatorProcessID>2</creatorProcessID>
+    <diagnosis>GreviousWound</diagnosis>
+    <drugRec>Whiskey</drugRec>
+    <fname>Abraham</fname>
+    <lname>Lincoln</lname>
+    <previousHash>EXF9oCwcbEf2adSd/qQ8yo+uYKJXfNv+hdgGbOOZ2avDflZdfrPALLgqYgag2MIi5tCoRHvMsmMOFZG4N+VfKcFEAAgivd0okAJmTUa38yOjOdAUUDDan9GqaotX1OCCUUHyroZtCJQwT3EO+Z4lYGtC9gMPYDT/y0Fzd1zRe2A=</previousHash>
+    <SHA256String>27470af6bfa68f52bb0da3be5a282f87b95c789eaf2118cc0ec35c840f816f14</SHA256String>
+    <SSN>444-45-6888</SSN>
+    <signedSHA256>IC8s9KR3Gd7ZLlpLLgtvnQ8vnUDMhZF1Z25SAWWJkvHTPo7lM3UQ+W0n4TJHpnLPk9D+GPgs+sEzeLl+mW2FNDonr4tfq8ClHlW1PkvRh77Xzx/l6qlLZuuvCh8lHZ86iLGoLj3V2W3FaOcGi+IMN0mi2IsMcQeKVEdOBwv26t4=</signedSHA256>
+    <timeStamp> 2018-02-18.19:58:03.2</timeStamp>
+    <verificationProcessID>0</verificationProcessID>
+    <wellnessRec>Surgery</wellnessRec>
+    <hashSolution>1RD4HI7E</hashSolution>
+</healthRecord>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<healthRecord>
+    <bday>1970.01.01</bday>
+    <blockNumber>2</blockNumber>
+    <blockUUID>cbd34382-2927-4591-9dd6-e6843999b69f</blockUUID>
+    <creatorProcessID>1</creatorProcessID>
+    <diagnosis>Migraine</diagnosis>
+    <drugRec>Almotriptan</drugRec>
+    <fname>Sally</fname>
+    <lname>McCutty</lname>
+    <previousHash>CkoKnRdyCxCymjyyiL9H8OOA5OhTq00uKmDM+y8u5pdxGLRqwgkzWO8SbuV8d5gl8206NjIN8Jq84K+kyODtXLlUc/KP6hN9YjEXGXfNHZmHzwgK2lLvO3cCYRGxlOiJRrfhvAdc/i1ydy++CqHZlazo4i2ECOM4qRcKrgmt4gs=</previousHash>
+    <SHA256String>89231857cc0e56be555633f2c59cd3305e7de1ed98f3b6b41f458ade5ad98ca0</SHA256String>
+    <SSN>123-456-999</SSN>
+    <signedSHA256>d4jo98Nvc+JPoREg1p8X/vdJdtgs5EOXjboeb1EWD7M7WyRO5wD+T6XBeGri724S4l9jUzRLmimrJIvGqtFKpJ0VgRYQiTktgQJCQaBEN1/MQ6SSk2IMmVkxmfxSbvsPooNVIRHl882RAI1Ef93FL5ZM/fg6cvZOxhzgaT2XxPI=</signedSHA256>
+    <timeStamp> 2018-02-18.19:58:03.1</timeStamp>
+    <verificationProcessID>1</verificationProcessID>
+    <wellnessRec>IcePack</wellnessRec>
+    <hashSolution>VHLVITLF</hashSolution>
+</healthRecord>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<healthRecord>
+    <bday>1996.03.07</bday>
+    <blockNumber>1</blockNumber>
+    <blockUUID>aeec805c-5334-49fc-8a03-90c73cb391f6</blockUUID>
+    <creatorProcessID>0</creatorProcessID>
+    <diagnosis>Insomnia</diagnosis>
+    <drugRec>HotPeppers</drugRec>
+    <fname>Julie</fname>
+    <lname>Wilson</lname>
+    <previousHash>GQ++gDrjJQ1Cyzul2AT34OVcujY5h5Par82cvrud4IvntGLG4j3ZsbovqaEeI8jE01kYLrEy5Bzl8AoSrDmtGxnhWxg87uc/XGb4TwwcQAPAVOV2jaxoGSiYFHly78BUbCLU00Z6/iomi8pcZubaNzjxWjXbkz7E0h1Um2mDIho=</previousHash>
+    <SHA256String>003ff87badde24ee1ea711ec65b3ab127204ac0672be61c974af3f83126f9f4b</SHA256String>
+    <SSN>123-45-6999</SSN>
+    <signedSHA256>VMz3jjIY9t2LwfkhArSoj6Ku5sXIAViU7NmT2a4zjS3woCUXup/SkKHTtvr9uE88zWRi8kgp+/C5IQGf95LUA8UGvia8eYP8bR7mu+7Trpfp5qGPR/fBlCbXauXJGcdHsxX6FRDmxm7WPZzh8N8wZzWyE1ilXlrypUgX/IZN9U0=</signedSHA256>
+    <timeStamp> 2018-02-18.19:58:04.0</timeStamp>
+    <verificationProcessID>2</verificationProcessID>
+    <wellnessRec>Exercise</wellnessRec>
+    <hashSolution>1J8D5ZL7</hashSolution>
+</healthRecord>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<healthRecord>
+    <bday>1917.05.29</bday>
+    <blockNumber>1</blockNumber>
+    <blockUUID>084d200a-600b-426c-84a6-a841d5a5e8e4</blockUUID>
+    <creatorProcessID>2</creatorProcessID>
+    <diagnosis>AddisonsDisease</diagnosis>
+    <drugRec>Steroids</drugRec>
+    <fname>John</fname>
+    <lname>Kennedy</lname>
+    <previousHash>BqVwPs/u4WRI5u0tIzJO407V+R8ffo4pWsueyDSaPI5v68rm9BLMFRxtrAAdRSgXHAyRx7TTGRznbE7wGTZBL/Mx/WlH6t2QCz0UUj4J89sDkfJXBS+5g33XFw0ovwYl/6boYe4/OXyKTUW1ywQ/ADmjlS++zJ8euO18a8BgqzU=</previousHash>
+    <SHA256String>9ccad646a6eeb8645224b98ca67d28f079954e587967b138bcad950e2afa64bd</SHA256String>
+    <SSN>333-45-6999</SSN>
+    <signedSHA256>EXF9oCwcbEf2adSd/qQ8yo+uYKJXfNv+hdgGbOOZ2avDflZdfrPALLgqYgag2MIi5tCoRHvMsmMOFZG4N+VfKcFEAAgivd0okAJmTUa38yOjOdAUUDDan9GqaotX1OCCUUHyroZtCJQwT3EO+Z4lYGtC9gMPYDT/y0Fzd1zRe2A=</signedSHA256>
+    <timeStamp> 2018-02-18.19:58:04.2</timeStamp>
+    <verificationProcessID>0</verificationProcessID>
+    <wellnessRec>DrugTherapy</wellnessRec>
+    <hashSolution>P38D1MLP</hashSolution>
+</healthRecord>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<healthRecord>
+    <bday>1940.11.27</bday>
+    <blockNumber>1</blockNumber>
+    <blockUUID>e86d9fc9-65c1-482f-a3ca-675f170c2878</blockUUID>
+    <creatorProcessID>1</creatorProcessID>
+    <diagnosis>SoreStomach</diagnosis>
+    <drugRec>Vicodine</drugRec>
+    <fname>Bruce</fname>
+    <lname>Lee</lname>
+    <previousHash>dKH9Z0x1jPlJmS+LI4LoIPt6aPkJOXq3MzoZGn5UuqDbhiZVoCz/77mQmlmkGT/DAzVSNDY9wFGMnB/28k5BYmWFBmBIezbTHBFBHbErB4s0r9roFzxGrBJZVItQmRoKjV/ZZlGKGRerVXqOVMb5qScg+2EJeEH/44EgG/BuZ9Y=</previousHash>
+    <SHA256String>9e5645e08e8e90cf74940f404a5d45be34e3295f9453325bde27c37fd2cb87ba</SHA256String>
+    <SSN>456-789-123</SSN>
+    <signedSHA256>CkoKnRdyCxCymjyyiL9H8OOA5OhTq00uKmDM+y8u5pdxGLRqwgkzWO8SbuV8d5gl8206NjIN8Jq84K+kyODtXLlUc/KP6hN9YjEXGXfNHZmHzwgK2lLvO3cCYRGxlOiJRrfhvAdc/i1ydy++CqHZlazo4i2ECOM4qRcKrgmt4gs=</signedSHA256>
+    <timeStamp> 2018-02-18.19:58:04.1</timeStamp>
+    <verificationProcessID>1</verificationProcessID>
+    <wellnessRec>LessCombat</wellnessRec>
+    <hashSolution>BHIP35UA</hashSolution>
+</healthRecord>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<healthRecord>
+    <bday>1942.07.07</bday>
+    <blockNumber>0</blockNumber>
+    <blockUUID>5e0f9758-8fb9-4b58-a2df-e248b50b8be9</blockUUID>
+    <creatorProcessID>0</creatorProcessID>
+    <diagnosis>Measles</diagnosis>
+    <drugRec>CodLiverOil</drugRec>
+    <fname>Wayne</fname>
+    <lname>Blaine</lname>
+    <previousHash>First Block/no hash</previousHash>
+    <SHA256String>1c392ca0fb35a628f268c386fb9b012da0fb5b9f3c52a6d116c9b27d654f96f7</SHA256String>
+    <SSN>123-45-6777</SSN>
+    <signedSHA256>GQ++gDrjJQ1Cyzul2AT34OVcujY5h5Par82cvrud4IvntGLG4j3ZsbovqaEeI8jE01kYLrEy5Bzl8AoSrDmtGxnhWxg87uc/XGb4TwwcQAPAVOV2jaxoGSiYFHly78BUbCLU00Z6/iomi8pcZubaNzjxWjXbkz7E0h1Um2mDIho=</signedSHA256>
+    <timeStamp> 2018-02-18.19:58:05.0</timeStamp>
+    <verificationProcessID>2</verificationProcessID>
+    <wellnessRec>WaitToGetBetter</wellnessRec>
+    <hashSolution>WSQ56HWM</hashSolution>
+</healthRecord>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<healthRecord>
+    <bday>1914.11.25</bday>
+    <blockNumber>0</blockNumber>
+    <blockUUID>99675a78-b964-4d3c-9bed-75901c3026d9</blockUUID>
+    <creatorProcessID>2</creatorProcessID>
+    <diagnosis>SoreKnees</diagnosis>
+    <drugRec>Aspirin</drugRec>
+    <fname>Joe</fname>
+    <lname>DiMaggio</lname>
+    <previousHash>First Block/no hash</previousHash>
+    <SHA256String>fc52c0fcba2dba939a069cc541127fac376735ad315297ca3f9e1ccb3baacb10</SHA256String>
+    <SSN>111-22-3333</SSN>
+    <signedSHA256>BqVwPs/u4WRI5u0tIzJO407V+R8ffo4pWsueyDSaPI5v68rm9BLMFRxtrAAdRSgXHAyRx7TTGRznbE7wGTZBL/Mx/WlH6t2QCz0UUj4J89sDkfJXBS+5g33XFw0ovwYl/6boYe4/OXyKTUW1ywQ/ADmjlS++zJ8euO18a8BgqzU=</signedSHA256>
+    <timeStamp> 2018-02-18.19:58:05.2</timeStamp>
+    <verificationProcessID>0</verificationProcessID>
+    <wellnessRec>RestFromSports</wellnessRec>
+    <hashSolution>TOW0HSRA</hashSolution>
+</healthRecord>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<healthRecord>
+    <bday>1992.01.31</bday>
+    <blockNumber>0</blockNumber>
+    <blockUUID>920a330a-5936-490d-82fe-27b2d014f801</blockUUID>
+    <creatorProcessID>1</creatorProcessID>
+    <diagnosis>ObessivePersonality</diagnosis>
+    <drugRec>Ibuprofen</drugRec>
+    <fname>Rita</fname>
+    <lname>Vita</lname>
+    <previousHash>First Block/no hash</previousHash>
+    <SHA256String>33c1c4aece908b332a009832fcdcc62550a62d1c359037f7567017f2047a716f</SHA256String>
+    <SSN>999-456-789</SSN>
+    <signedSHA256>dKH9Z0x1jPlJmS+LI4LoIPt6aPkJOXq3MzoZGn5UuqDbhiZVoCz/77mQmlmkGT/DAzVSNDY9wFGMnB/28k5BYmWFBmBIezbTHBFBHbErB4s0r9roFzxGrBJZVItQmRoKjV/ZZlGKGRerVXqOVMb5qScg+2EJeEH/44EgG/BuZ9Y=</signedSHA256>
+    <timeStamp> 2018-02-18.19:58:01.1</timeStamp>
+    <verificationProcessID>1</verificationProcessID>
+    <wellnessRec>TryToRelax</wellnessRec>
+    <hashSolution>KI9UDWVB</hashSolution>
+</healthRecord>
+
+[First block]
+
+
+
+
+
+
+
+
+
+
+

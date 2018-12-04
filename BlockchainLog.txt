@@ -1,0 +1,64 @@
+Erik  Pugesek
+Output from each teminal
+ProcessID 0
+
+Starting Key Server input thread using 4710
+Starting the Unverified Block Server input thread using 4820
+Starting the blockchain server:  4930
+Got from PID: 2
+With Key: MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQChkyhenPOi+Szx3VWQV72zMU7tIPls3kJtkHR+r1I5XRWN2lXJBvCbVmoI8ux9xVqLVoUqYOCwC/pqSM3n9PGlgTJtYH/LRk6IkhaAJb42/0Ap5OGekY52S2w+5FPZ0CJqD14hR0L5SNH5n0KXeocBESBfqWAD6QpbB6IfPKdOrwIDAQAB
+Got from PID: 0
+With Key: MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDVY3sdJ5dF+it0ZV+BJIENbRtgqiMJPJt8IMW7ifA1JqBdGXWtnKqHklCqrPmELX6dMeR9ljT43DtLJ+RwE3PNcI+4tlwKRgGmkPJIBY0lw6jr5Di9sPZEHsAihRwlAxy7QHEwVj76koN0435bSb19dkpTcunIY1FOvxyPOocQtwIDAQAB
+Got from PID: 1
+With Key: MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCrySaVIU1+tBBrgLgXWBRNqSWQa3bMc/jzYnMO12F8++6DMRDYjsFhLpPwVm+/TrykOWmTjC76Qj1q4dYYOstus1gEsmzWEGMx8zEVbsLfptIfT/gaz6P0TAeIoee7KwU78+mx1n0e77iOp2uNpuFh2rsWcjexoT60ujFNu3YN7wIDAQAB
+BlockchainLedger.xml has been updated
+Starting the Unverified Block Priority Queue Consumer thread.
+
+BlockchainLedger.xml has been updated
+BlockchainLedger.xml has been updated
+BlockchainLedger.xml has been updated
+BlockchainLedger.xml has been updated
+BlockchainLedger.xml has been updated
+BlockchainLedger.xml has been updated
+BlockchainLedger.xml has been updated
+BlockchainLedger.xml has been updated
+BlockchainLedger.xml has been updated
+BlockchainLedger.xml has been updated
+BlockchainLedger.xml has been updated
+
+
+
+
+Erik Pugesek's Blockchain for Healthcare, control-c to quit.
+
+ProcessID 1
+
+Starting Key Server input thread using 4711
+Starting the Unverified Block Server input thread using 4821
+Starting the blockchain server:  4931
+Got from PID: 1
+With Key: MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCcrxsCyLhcvbjOn0os9Mzs88ZzFYEoYMT5Ga0AfqYpMqMijdumLo6BPO+p5rqs8tVfNfisIzfDjGUNvpbmiu56TJYwaHsQ6X5yBePNU6Rxn2fur7zRhxSxIr4fgxtmYK+swe2/vHIMmBi8sbbUKPZ4SFasDnA3xFg29TlUOJ7jLQIDAQAB
+Got from PID: 2
+With Key: MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCjW8YpWU9VZaUzYMuUOrP7G7OLg+4Bu4GftrpVcX3gjTDFUH2WcnqcppOLlkebsZRC8zxcAtR+YjflcSb9iv/rTDXn6uVcW9ip+4LlBVwQ8j1a6m2fdea2lZNUPxrEwulNVP7Q6shC9ppABRO+xsDdcdM4jX9mhAS346nymUaw+QIDAQAB
+Got from PID: 0
+With Key: MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCihIMaTK9NssvjLvQJqS+vaknHo75Z3G2no1yVtIMrfrRiW4WwjHVgy5ID/ZLk/yBqVc7QhaFcfHrjzy5TViunV3AS/5So2aXBe4m6iMg2c+jXLMnPTscSa2P82tTawEtJQs7NUnchW5rMrPULA/lyVQSuT2BABKu/zBDpft5zRQIDAQAB
+Starting the Unverified Block Priority Queue Consumer thread.
+
+
+
+
+
+Erik Pugesek's Blockchain for Healthcare, control-c to quit.
+
+ProcessID 2
+
+Starting Key Server input thread using 4712
+Starting the Unverified Block Server input thread using 4822
+Starting the blockchain server:  4932
+Got from PID: 2
+With Key: MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQChkyhenPOi+Szx3VWQV72zMU7tIPls3kJtkHR+r1I5XRWN2lXJBvCbVmoI8ux9xVqLVoUqYOCwC/pqSM3n9PGlgTJtYH/LRk6IkhaAJb42/0Ap5OGekY52S2w+5FPZ0CJqD14hR0L5SNH5n0KXeocBESBfqWAD6QpbB6IfPKdOrwIDAQAB
+Got from PID: 0
+With Key: MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDVY3sdJ5dF+it0ZV+BJIENbRtgqiMJPJt8IMW7ifA1JqBdGXWtnKqHklCqrPmELX6dMeR9ljT43DtLJ+RwE3PNcI+4tlwKRgGmkPJIBY0lw6jr5Di9sPZEHsAihRwlAxy7QHEwVj76koN0435bSb19dkpTcunIY1FOvxyPOocQtwIDAQAB
+Got from PID: 1
+With Key: MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCrySaVIU1+tBBrgLgXWBRNqSWQa3bMc/jzYnMO12F8++6DMRDYjsFhLpPwVm+/TrykOWmTjC76Qj1q4dYYOstus1gEsmzWEGMx8zEVbsLfptIfT/gaz6P0TAeIoee7KwU78+mx1n0e77iOp2uNpuFh2rsWcjexoT60ujFNu3YN7wIDAQAB
+Starting the Unverified Block Priority Queue Consumer thread.
